@@ -12,5 +12,5 @@ Some paper about DL in aptamer
 
 [AptaNet as a deep learning approach for aptamer–protein interaction prediction](https://www.nature.com/articles/s41598-021-85629-0)([code](https://github.com/nedaemami/AptaNet))
 
-
+[Machine learning guided aptamer refinement and discovery](https://www.nature.com/articles/s41467-021-22555-9)
 

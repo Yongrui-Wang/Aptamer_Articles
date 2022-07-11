@@ -6,6 +6,6 @@ Some paper about DL in aptamer
 
 
 ## DL
-[Generative aptamer discovery using RaptGen](https://www.nature.com/articles/s43588-022-00249-6) [code](https://github.com/hmdlab/raptgen)
+[Generative aptamer discovery using RaptGen](https://www.nature.com/articles/s43588-022-00249-6) ([code](https://github.com/hmdlab/raptgen))
 
 []
